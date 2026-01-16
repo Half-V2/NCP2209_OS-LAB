@@ -28,13 +28,16 @@ BURST
 50.55
 66.66
 
-Round Robin algo.
-5 processes GANTT chart
-BURST
-99.99
-107.9
-143.77
-20.24
-50.55
-66.66
-TQ = 25
+<number4>
+Round Robin algo. in c++
+6 processes with GANTT chart
+
+BURST TIMES
+- 99.99
+- 107.9
+- 143.77
+- 20.24
+- 50.55
+- 66.66
+Time Quantum = 25
+</number4>
